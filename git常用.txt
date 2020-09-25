@@ -1,0 +1,10 @@
+https://github.com/FFFFFocus/colorfulCloud 
+git clone git@github.com:First2019/colorfulCloud.git
+git remote add origin git@github.com:daixu/WebApp.git
+增加一个远程服务器端
+上面的命令会增加URL地址为'git@github.com:daixu/WebApp.git'，
+名称为origin的远程服务器库，以后提交代码的时候只需要使用 origin别名即可
+
+
+看这篇博客git基本就没问题了
+https://www.cnblogs.com/javaIOException/p/11867988.html
