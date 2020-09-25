@@ -1,0 +1,7 @@
+version 1
+商家表	merchanti_d(自动生成),merchant_name（商户名，不可重复）,merchant_password(商家密码 初始化为‘111111’，)，ip_addr(绑定的ip),discount(商户对会员的折扣0~1)，merchant_email(邮箱)，merchant_
+商家子账号表   employee_id,merchant_name(所属商户名 外键),employee_position(子账号：前台，客户经理，经理，主账号 权限参考需求文档2.1.2.4，可设置为int型对应1,2,3,4)，employee_email(邮箱)
+会员卡表 vipcard_id,merchant_name0
+用户表
+会员用户表
+运营商表
